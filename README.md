@@ -50,12 +50,13 @@ Linkedin: https://www.linkedin.com/in/yuriloureiro/
 ## 🎨 Estilo
 
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<br /><br />
+<br style="clear:both;" />
 
 ## 📚 Em aprendizado
 
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<br /><br />
+<br style="clear:both;" />
+
 
 
 ## Projetos
