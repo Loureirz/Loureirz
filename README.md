@@ -4,15 +4,21 @@
 
 ## Sobre mim
 
-Não sou apenas um desenvolvedor **full-stack** — sou um construtor de futuros digitais, que escolheu trilhar seu próprio caminho, quebrando paradigmas e erguendo do zero soluções autênticas, sem atalhos ou atalhos mentais.
+Olá! 
 
-Cada linha de código que escrevo é uma jogada calculada em um tabuleiro de estratégia intensa — assim como no poker, onde cada decisão pode redefinir o rumo da partida. Programar, para mim, é uma guerra mental, um exercício de análise precisa e adaptação feroz. Essa mentalidade afiada guia cada projeto, cada desafio, cada conquista.
+Me chamo Yuri Loureiro e sou desenvolvedor full-stack, formado pelo bootcamp da TripleTen. É um prazer te ter por aqui!
 
-Minha paixão por poker, Bitcoin, games e criptografia não é mera coincidência — é o combustível que alimenta minha visão. Enquanto muitos apenas acompanham a revolução tecnológica, eu mergulho fundo, dominando as ferramentas que estão redesenhando o mundo: finanças descentralizadas, segurança digital e experiências digitais imersivas.
+Minha relação com a tecnologia sempre foi movida por curiosidade e estratégia. Antes de programar, já explorava mundos que envolvem lógica, tomada de decisão e risco — como o poker e o universo do Bitcoin. Esses interesses se conectaram naturalmente com o desenvolvimento de software, onde encontrei um espaço para construir soluções reais, do zero, com pensamento analítico e visão de longo prazo.
 
-Meu propósito é claro e ambicioso: unir tecnologia de ponta e estratégia para criar soluções que desafiem o status quo, impactem vidas e transformem realidades. Quero estar na linha de frente dessa transformação, moldando plataformas que conectam pessoas, promovem conhecimento e constroem um futuro disruptivo, sustentável e inspirador.
+No bootcamp da TripleTen, desenvolvi projetos práticos usando tecnologias como JavaScript, React, Node.js, APIs e metodologias ágeis. Aprendi a estruturar aplicações completas, sempre com foco na clareza do código, na experiência do usuário e na resolução de problemas reais.
 
-Essa é minha missão — e a jornada está só começando.
+Gosto especialmente de temas como segurança digital, experiências web imersivas e finanças descentralizadas. E acredito que programar, assim como jogar poker, exige disciplina, leitura de cenário e adaptação constante — tudo o que me motiva a seguir evoluindo.
+
+Estou sempre aberto a conversar, trocar ideias e colaborar com quem compartilha essa vontade de criar, inovar e transformar. Se quiser bater um papo sobre tech, cripto, poker ou projetos autorais, me chama!
+
+Você pode ver um pouco mais no meu LinkedIn ou conferir meus projetos por aqui mesmo. 🚀
+
+Linkedin: https://www.linkedin.com/in/yuriloureiro/
 
 ---
 
