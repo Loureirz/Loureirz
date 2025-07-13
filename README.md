@@ -80,3 +80,7 @@ Projeto frontend focado exclusivamente em Bitcoin, com interface dinâmica e con
 ### Stats
 
 ![loureirz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=loureirz&theme=react&hide_border=true)
+
+## 🎓 Certificados
+
+- [📄 Desenvolvedor Web Full-Stack – TripleTen (2025)](./certificados/Yuri%20Almeida%20Loureiro_WD.pdf)
